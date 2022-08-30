@@ -1,0 +1,19 @@
+Visualização de favoritos
+
+Ator: Usuário
+
+Fluxo normal:
+
+1 - Usuário favorita uma pergunta ou resposta
+
+2 - Usuário clica na aba de favoritas
+
+3 - Todas as perguntas e respostasa favoritas são mostradas
+
+4 - Usuário pode clicar para ir até a favorita
+
+Extensão:
+
+3a - Usuário pode desfavoritar uma pergunta ou resposta
+
+4a - Caso a pergunta ou resposta não exista mais uma tela de Not found é apresentada
