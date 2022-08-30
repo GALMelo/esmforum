@@ -1,0 +1,19 @@
+Votar resposta
+
+Ator: Usuário
+
+Fluxo normal:
+
+1 - Usuário clica no botão de voto 
+
+2 - Resposta recebe um voto positivo ou negativo
+
+3 - Número de votos é apresentado na resposta
+
+4 - Respostas com mais votos aparecem a cima
+
+Extensões:
+
+3a - Caso a resposta possua votos negativos um número negativo aparece
+
+4a - Respostas com números baixíssmos de votos são apagadas
